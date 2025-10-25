@@ -1,0 +1,19 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CS112-Data Mining & Data Warehousing"
+Faculty:,Pallabi
+total,4
+start,2025-10-15
+end,2025-10-25
+slno,roll_no,name,2025-10-15,2025-10-22,2025-10-23,2025-10-25,attended,percent
+1,CSB21002,"Emily Smith",A,A,P,P,2,50
+2,CSB21004,"Sophia Williams",A,A,A,P,1,25
+3,CSB21005,"Daniel Brown",A,P,A,P,2,50
+4,CSB21006,"Olivia Jones",A,A,P,P,2,50
+5,CSB21008,"Emma Miller",A,A,P,P,2,50
+6,CSB21009,"David Wilson",P,P,A,A,2,50
+7,CSB21011,"Michael Martinez",P,P,A,A,2,50
+8,CSB21012,"Ava Anderson",P,A,P,A,2,50
+9,CSM21001,"Liam Garcia",P,A,P,A,2,50
+10,CSM21004,"Olivia Hernandez",P,A,P,A,2,50
+11,CSM21007,"Alexander Gonzalez",A,A,P,A,1,25
+12,CSM21012,"Emma Hernandez",A,A,P,A,1,25
